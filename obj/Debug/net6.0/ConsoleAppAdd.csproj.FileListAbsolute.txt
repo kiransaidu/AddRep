@@ -1,0 +1,14 @@
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\bin\Debug\net6.0\ConsoleAppAdd.exe
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\bin\Debug\net6.0\ConsoleAppAdd.deps.json
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\bin\Debug\net6.0\ConsoleAppAdd.runtimeconfig.json
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\bin\Debug\net6.0\ConsoleAppAdd.dll
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\bin\Debug\net6.0\ConsoleAppAdd.pdb
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\obj\Debug\net6.0\ConsoleAppAdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\obj\Debug\net6.0\ConsoleAppAdd.AssemblyInfoInputs.cache
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\obj\Debug\net6.0\ConsoleAppAdd.AssemblyInfo.cs
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\obj\Debug\net6.0\ConsoleAppAdd.csproj.CoreCompileInputs.cache
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\obj\Debug\net6.0\ConsoleAppAdd.dll
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\obj\Debug\net6.0\refint\ConsoleAppAdd.dll
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\obj\Debug\net6.0\ConsoleAppAdd.pdb
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\obj\Debug\net6.0\ConsoleAppAdd.genruntimeconfig.cache
+D:\Phase 4\Feb 15\ConsoleAppAdd\ConsoleAppAdd\obj\Debug\net6.0\ref\ConsoleAppAdd.dll
